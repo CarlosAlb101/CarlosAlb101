@@ -2,7 +2,9 @@
 **CarlosAlb101/CarlosAlb101** — special profile repository.
 -->
 
-<!-- Banner Matrix -->
+<!-- horizontal divider (gradient) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/feae482b-fc1e-4003-a4d7-d2d89fc28b6d"
@@ -11,28 +13,26 @@
   />
 </p>
 
-<h2 align="center">
+<h2 align="left">
   Hi there, I'm <b>Carlos</b>
+  <img
+    align="right"
+    src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true"
+    width="190"
+  />
 </h2>
 
-<p align="center">
-  Estudiante de <b>Ingeniería de Software</b> · Enfocado en <b>desarrollo web (frontend)</b><br/>
-  Angular · Vue · TypeScript · JavaScript · HTML · CSS
-</p>
+### About me
+
+- Software Engineering student  
+- Focused on full stack web development  
+- Working with Angular, Vue, TypeScript, JavaScript, HTML and CSS  
+- Interested in domain-driven design (DDD) and clean code  
+- Goal: build a solid GitHub portfolio with real-world web projects  
 
 ---
 
-### Sobre mí
-
-- Estudiante de **Ingeniería de Software**
-- Enfocado en **desarrollo web frontend**
-- Trabajo con **Angular**, **Vue**, **TypeScript**, **JavaScript**, **HTML** y **CSS**
-- Me gusta la **arquitectura por dominios (DDD)** y el **código limpio**
-- Objetivo: armar un **portafolio sólido en GitHub** con proyectos web reales
-
----
-
-### Lenguajes y herramientas
+### Languages and tools
 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub stats
 
 <p align="center">
   <img
@@ -60,13 +60,12 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlb101&layout=compact&langs_count=6&theme=chartreuse-dark"
-    alt="Top Langs"
+    alt="Top languages"
   />
 </p>
 
 ---
 
-### 📫 Contacto
+### Contact
 
-- matadorxdm@gmail.com
-
+- Email: matadorxdm@gmail.com
