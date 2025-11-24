@@ -1,24 +1,38 @@
 <!--
-**CarlosAlb101/CarlosAlb101** es un ✨ repositorio especial ✨ porque su `README.md` aparece en tu perfil.
+**CarlosAlb101/CarlosAlb101** — special profile repository.
 -->
 
-<!-- Banner / GIF principal -->
-![Matrix](https://github.com/user-attachments/assets/10750ff5-a314-4044-898d-ab12353e2c8e)
+<!-- Banner Matrix -->
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/feae482b-fc1e-4003-a4d7-d2d89fc28b6d"
+    alt="Matrix banner"
+    width="100%"
+  />
+</p>
 
-<h2 align="left">
-  Hi there, I'm <b>Carlos</b> 👾
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="center">
+  Hi there, I'm <b>Carlos</b>
 </h2>
 
-- 🎓 Estudiante de **Ingeniería de Software**
-- 💻 Enfocado en **desarrollo web** (sobre todo frontend)
-- ⚙️ Trabajo con **Angular**, **Vue**, **TypeScript**, **JavaScript**, HTML y CSS
-- 🧠 Me gustan la arquitectura por dominios (DDD), buenas prácticas y código limpio
-- 🎯 Objetivo: armar un portafolio sólido en GitHub con proyectos web reales
+<p align="center">
+  Estudiante de <b>Ingeniería de Software</b> · Enfocado en <b>desarrollo web (frontend)</b><br/>
+  Angular · Vue · TypeScript · JavaScript · HTML · CSS
+</p>
 
 ---
 
-#### 🧰 Lenguajes y herramientas
+### Sobre mí
+
+- Estudiante de **Ingeniería de Software**
+- Enfocado en **desarrollo web frontend**
+- Trabajo con **Angular**, **Vue**, **TypeScript**, **JavaScript**, **HTML** y **CSS**
+- Me gusta la **arquitectura por dominios (DDD)** y el **código limpio**
+- Objetivo: armar un **portafolio sólido en GitHub** con proyectos web reales
+
+---
+
+### Lenguajes y herramientas
 
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"></code>
@@ -34,29 +48,25 @@
 
 ---
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 
-[![CarlosAlb101's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAlb101&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false&include_all_commits=true)](https://github.com/CarlosAlb101?tab=repositories)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CarlosAlb101&count_private=true&show_icons=true&theme=chartreuse-dark&hide_rank=false&include_all_commits=true"
+    alt="CarlosAlb101's GitHub stats"
+  />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlb101&layout=compact&langs_count=6&theme=chartreuse-dark)](https://github.com/CarlosAlb101)
-
----
-
-#### 📫 Find me
-
-<p align="left">
-  <!-- Cambia estos links por los tuyos reales -->
-  <a href="https://www.linkedin.com" target="_blank">
-    <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:tu_correo@ejemplo.com">
-    <img height="25" src="https://raw.githubusercontent.com/fluidicon.png/gh-pages/logo-gh.png" alt="Email">
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlb101&layout=compact&langs_count=6&theme=chartreuse-dark"
+    alt="Top Langs"
+  />
 </p>
 
 ---
 
-_Last edited: 2025-11-24_
+### 📫 Contacto
 
-
+- matadorxdm@gmail.com
 
