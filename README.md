@@ -1,1 +1,3 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CarlosAlb101&show_icons=true&theme=chartreuse-dark" alt="GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAlb101&layout=compact&theme=chartreuse-dark" alt="Top Langs" /> </p>
+<p align="center">
+  <img src="./matrix-banner.gif" alt="Matrix banner" width="100%" />
+</p>
