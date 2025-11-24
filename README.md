@@ -3,7 +3,7 @@
 -->
 
 <!-- Banner / GIF principal -->
-![Matrix](https://github.com/user-attachments/assets/4529d0dc-e3b2-4366-b291-858489f88fb2)
+![Matrix](https://github.com/user-attachments/assets/10750ff5-a314-4044-898d-ab12353e2c8e)
 
 <h2 align="left">
   Hi there, I'm <b>Carlos</b> 👾
